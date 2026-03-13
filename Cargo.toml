@@ -2,7 +2,10 @@
 name = "robrix-openclaw-channel"
 version = "0.1.0"
 edition = "2024"
-repository = "ssh://git@github.com/Project-Robius-China/robrix-openclaw-channel.git"
+license = "MIT OR Apache-2.0"
+description = "OpenClaw channel abstraction for Robrix runtimes."
+readme = "README.md"
+repository = "https://github.com/Project-Robius-China/robrix-openclaw-channel.git"
 
 [dependencies]
 async-stream = "0.3"
